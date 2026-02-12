@@ -1,4 +1,3 @@
-# Bolt.new Clone
 
 An AI-powered web development tool that brings full-stack application development directly to your browser. This project is a clone implementation of [Bolt.new](https://bolt.new), created for educational purposes.
 
