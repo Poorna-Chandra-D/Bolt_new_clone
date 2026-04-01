@@ -6,7 +6,6 @@ An AI-powered web development tool that brings full-stack application developmen
 
 ## 🚀 Overview
 
-
 Bolt.new Clone enables developers to build, test, and deploy full-stack web applications entirely within the browser, combining cutting-edge technologies to streamline the development workflow without requiring extensive local setups.
 
 ## ✨ Key Features
